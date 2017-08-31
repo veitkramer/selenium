@@ -1,0 +1,12 @@
+#run_c setting, rules, backoffice, permission
+require './account.rb'
+require './bookingrules.rb'
+require './customer_settings.rb'
+require './Log_out.rb'
+require './openings.rb'
+require './permission_admin.rb'
+require './permission_member.rb'
+require './permission_owner.rb'
+require './profile.rb'
+require './widget.rb'
+require './backoffice.rb'

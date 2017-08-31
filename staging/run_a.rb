@@ -1,0 +1,13 @@
+#run_a Booking and Payment
+require './booking_multi.rb'
+require './booking_payment_validation.rb'
+require './booking_payment.rb'
+require './booking_request_accept.rb'
+require './booking_request_payment_accept.rb'
+require './booking_request_payment_proposal.rb'
+require './booking_request_payment_reject.rb'
+require './booking_request_proposal.rb'
+require './booking_request_reject.rb'
+require './booking.rb'
+require './payment_validation.rb'
+require './payment.rb'

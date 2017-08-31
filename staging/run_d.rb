@@ -1,0 +1,12 @@
+#run_d messaging, newseltter, customer, shift, resources, sevrices, searching
+require './customer.rb'
+require './feedback.rb'
+require './message.rb'
+require './newsletter.rb'
+require './reminder.rb'
+require './resource.rb'
+require './searching.rb'
+require './service.rb'
+require './shift.rb'
+require './sms_newsletter.rb'
+require './staff.rb'
