@@ -1,0 +1,13 @@
+#run_a Booking and Payment
+require './booking_multi_appshell.rb'
+require './booking_payment_validation_appshell.rb'
+require './booking_payment_appshell.rb'
+require './booking_request_accept_appshell.rb'
+require './booking_request_payment_accept_appshell.rb'
+require './booking_request_payment_proposal_appshell.rb'
+require './booking_request_payment_reject_appshell.rb'
+require './booking_request_proposal_appshell.rb'
+require './booking_request_reject_appshell.rb'
+require './booking_appshell.rb'
+require './payment_validation_appshell.rb'
+require './payment_appshell.rb'

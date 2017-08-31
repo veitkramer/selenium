@@ -1,0 +1,12 @@
+#run_c messaging, newseltter, customer, shift, resources, sevrices, searching
+require './customer_appshell.rb'
+require './feedback_appshell.rb'
+require './message_appshell.rb'
+require './newsletter_appshell.rb'
+require './reminder_appshell.rb'
+require './resource_appshell.rb'
+require './searching_appshell.rb'
+require './service_appshell.rb'
+require './shift_appshell.rb'
+require './sms_newsletter_appshell.rb'
+require './staff_appshell.rb'
