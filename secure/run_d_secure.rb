@@ -1,0 +1,12 @@
+#run_d messaging, newseltter, customer, shift, resources, sevrices, searching
+require './customer_secure.rb'
+#require './feedback_secure.rb'
+require './message_secure.rb'
+require './newsletter_secure.rb'
+require './reminder_secure.rb'
+require './resource_secure.rb'
+require './searching_secure.rb'
+require './service_secure.rb'
+require './shift_secure.rb'
+require './sms_newsletter_secure.rb'
+require './staff_secure.rb'
